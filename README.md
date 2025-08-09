@@ -16,6 +16,14 @@ npm test
 
 ---
 
+## Running tests
+
+```bash
+npm run test
+```
+
+---
+
 
 ## Docker
 
